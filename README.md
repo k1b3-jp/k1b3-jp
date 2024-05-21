@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm k1b3-jp</h1>
 <h3 align="center">A passionate developer from Japan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k1b3-jp" alt="k1b3-jp" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k1b3-jp" alt="k1b3-jp" /></a></p>
 
-<p align="left"> <a href="https://twitter.com/_k1b3" target="blank"><img src="https://img.shields.io/twitter/follow/_k1b3?logo=twitter&style=for-the-badge" alt="_k1b3" /></a> </p>
+<h3 align="left">Resume:</h3>
+
+https://k1b3-jp.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
