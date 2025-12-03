@@ -1,14 +1,105 @@
 <h1 align="center">Hi 👋, I'm k1b3-jp</h1>
-<h3 align="center">A passionate developer from Japan</h3>
+<h3 align="center">Full-stack Developer | Technical Content Creator | Exploring AI × Individual Possibilities</h3>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k1b3-jp" alt="k1b3-jp" /></a></p>
+<p align="center">
+  Former Executive Officer exploring the frontier of AI-enabled individual value creation. <br>
+  Taking a career break to deeply investigate "How far can an individual go with AI as a partner?"
+</p>
 
-<h3 align="left">Connect with me:</h3>
+## 👨‍💼 Career
+
+**Executive Officer** | Tech Company | Oct 2024 - Sep 2025
+- Participated in executive management and strategic decision-making
+- Led organizational strategy, talent management, and new business development
+- Spearheaded company-wide internal portal development using AI coding tools (no-code experiment)
+- Implemented peer bonus system, career support initiatives, and organizational culture improvements
+- Enhanced transparency through open internal communications and weekly data-driven reports
+
+**Team Leader & Full-stack Engineer** | Tech Company | Oct 2022 - Sep 2025
+- Led development team (2-5 members) for educational web service
+- Managed project operations including requirements definition, ticket management, and client communication
+- Tech stack: Ruby on Rails, Vue.js/Nuxt.js, GraphQL (Apollo), TypeScript, AWS
+
+**Web Engineer** | Marketing & System Development | Apr 2021 - Aug 2022
+- Developed websites and web applications for automotive dealers and real estate clients
+- Led Adobe XD implementation across design and engineering teams
+- Managed production process and team coordination (2 engineers, 3 designers)
+- Tech stack: WordPress, HTML/CSS (SASS/BEM), JavaScript/jQuery, PHP
+
+**Corporate Planning** | Aug 2019 - Mar 2021
+- Designed and implemented absolute evaluation system from scratch
+- Built remote work infrastructure and information architecture
+- Introduced Google Workspace-based internal wiki and Slack for organization-wide communication
+- Streamlined reporting using Google Data Portal
+
+**Web Marketer & Business Developer** | Apr 2018 - Mar 2019
+- Managed listing advertisements and website analytics for clients
+- Led planning, development, and launch of HR matching service as a new business initiative
+
+## 🛠️ Tech Stack
+
+**Frontend:** Next.js, React, Vue.js, Nuxt.js, TypeScript, JavaScript  
+**Backend:** Ruby on Rails, Node.js, PostgreSQL, Prisma  
+**Cloud & Tools:** AWS, Supabase, Docker, GraphQL, Google Apps Script  
+**Languages:** Japanese (Native), English
+
+## 🤝 Connect with Me
+
 <p align="left">
 <a href="https://twitter.com/_k1b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_k1b3" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k1b3-jp&show_icons=true&locale=en&layout=compact" alt="k1b3-jp" /></p>
+# 日本語版 | Japanese Version
+
+<h1 align="center">👋 k1b3-jpです</h1>
+<h3 align="center">フルスタック開発者 | 技術コンテンツクリエイター | AI×個人の可能性を探求中</h3>
+
+<p align="center">
+  元執行役員。AI活用による個人の価値創造の最前線を探求中。<br>
+  「AIをパートナーにした時、個人はどこまでやれるのか？」を実験的に検証するためキャリアブレイク中。
+</p>
+
+## 👨‍💼 職務経歴
+
+**執行役員** | テック企業 | 2024年10月 - 2025年9月
+- 経営会議に参画し、組織戦略・タレントマネジメント・新規事業企画を統括
+- AIコーディングツールを活用した全社横断社内ポータルの企画開発を主導（コードレス開発の実験的取り組み）
+- ピアボーナス制度、キャリア支援施策の導入により組織風土を改善
+- オープン社内報の継続的な発信により経営情報の透明性を向上
+- 週報データ化による業務効率化を推進
+
+**チームリーダー・フルスタックエンジニア** | テック企業 | 2022年10月 - 2025年9月
+- 学習塾向けWebサービスの開発チーム（2〜5名）をリード
+- 要件定義、プロジェクト管理（チケット管理含む）、顧客折衝を担当
+- 使用技術：Ruby on Rails, Vue.js/Nuxt.js, GraphQL (Apollo), TypeScript, AWS
+
+**Webエンジニア** | マーケティング・システム開発 | 2021年4月 - 2022年8月
+- 自動車ディーラー、住宅販売向けWebサイト・Webアプリケーションを開発
+- Adobe XDのチーム導入を主導し、デザイナー・エンジニア間連携を標準化
+- 制作進行を兼任（エンジニア2名、デザイナー3名）
+- 使用技術：WordPress, HTML/CSS (SASS/BEM), JavaScript/jQuery, PHP
+
+**経営企画** | 2019年8月 - 2021年3月
+- 絶対評価制度をゼロから設計・導入
+- リモートワーク環境整備として情報インフラと業務プロセスを構築
+- Google Workspaceを活用した社内wiki導入を推進
+- Googleデータポータルによるレポート体系化、Slackの全社導入を実行
+
+**Webマーケター・新規事業開発** | 2018年4月 - 2019年3月
+- リスティング広告運用とサイト分析を担当
+- 新規事業としてHRマッチングサービスの企画・開発から公開までを主導
+
+## 🛠️ 技術スタック
+
+**フロントエンド:** Next.js, React, Vue.js, Nuxt.js, TypeScript, JavaScript  
+**バックエンド:** Ruby on Rails, Node.js, PostgreSQL, Prisma  
+**クラウド & ツール:** AWS, Supabase, Docker, GraphQL, Google Apps Script  
+**言語:** 日本語（ネイティブ）、英語
+
+## 🤝 連絡先
+
+<p align="left">
+<a href="https://twitter.com/_k1b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_k1b3" height="30" width="40" /></a>
+</p>
