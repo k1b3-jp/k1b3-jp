@@ -6,6 +6,33 @@
   Taking a career break to deeply investigate "How far can an individual go with AI as a partner?"
 </p>
 
+## 🚀 Projects
+
+### Chekisapo (チェキサポ) - Idol Event Support App
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+</p>
+
+A Progressive Web App that suggests poses and conversation topics for idol meet-and-greet events.
+
+🔗 https://chekisapo.com/
+
+### Wasuta Archive (わーすたアーカイブ)
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+</p>
+
+Comprehensive archive of idol group The World Standard (わーすた) activities, events, and media appearances.
+
+🔗 https://www.wasuta-archive.com/
+
 ## 👨‍💼 Career
 
 **Executive Officer** | Tech Company | Oct 2024 - Sep 2025
@@ -60,6 +87,33 @@
   元執行役員。AI活用による個人の価値創造の最前線を探求中。<br>
   「AIをパートナーにした時、個人はどこまでやれるのか？」を実験的に検証するためキャリアブレイク中。
 </p>
+
+## 🚀 プロジェクト
+
+### チェキサポ (Chekisapo) - アイドル特典会サポートアプリ
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+</p>
+
+アイドル特典会でのポーズや会話トピックを提案するプログレッシブウェブアプリ。
+
+🔗 https://chekisapo.com/
+
+### わーすたアーカイブ (Wasuta Archive)
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+</p>
+
+アイドルグループ「わーすた（The World Standard）」の活動・イベント・メディア出演を網羅したアーカイブサイト。
+
+🔗 https://www.wasuta-archive.com/
 
 ## 👨‍💼 職務経歴
 
