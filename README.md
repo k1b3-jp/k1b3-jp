@@ -8,13 +8,27 @@
 
 ## 🚀 Projects
 
+### Premarry - Couple Compatibility Diagnosis App
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
+</p>
+
+A compatibility diagnosis app for couples featuring ~100 questions across 11 categories (money, family, work, etc.), category-based matching scores, and AI-powered personalized insights using Gemini API.
+
+🔗 https://pre-marry.com/
+
 ### Chekisapo (チェキサポ) - Idol Event Support App
 <p align="left">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white" />
 </p>
 
 A Progressive Web App that suggests poses and conversation topics for idol meet-and-greet events.
@@ -67,7 +81,7 @@ Comprehensive archive of idol group The World Standard (わーすた) activities
 
 **Frontend:** Next.js, React, Vue.js, Nuxt.js, TypeScript, JavaScript  
 **Backend:** Ruby on Rails, Node.js, PostgreSQL, Prisma  
-**Cloud & Tools:** AWS, Supabase, Docker, GraphQL, Google Apps Script  
+**Cloud & Tools:** AWS, Supabase, Cloudflare Workers, Docker, GraphQL, Google Apps Script  
 **Languages:** Japanese (Native), English
 
 ## 🤝 Connect with Me
@@ -90,13 +104,27 @@ Comprehensive archive of idol group The World Standard (わーすた) activities
 
 ## 🚀 プロジェクト
 
+### Premarry - カップル向け相性診断アプリ
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
+</p>
+
+カップル向けの質問・互換性診断アプリ。お金・家族・仕事など11カテゴリ約100問の質問で相性をスコア化し、Gemini AIがふたりの回答を分析してパーソナライズされたアドバイスを提供。
+
+🔗 https://pre-marry.com/
+
 ### チェキサポ (Chekisapo) - アイドル特典会サポートアプリ
 <p align="left">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white" />
 </p>
 
 アイドル特典会でのポーズや会話トピックを提案するプログレッシブウェブアプリ。
@@ -149,7 +177,7 @@ Comprehensive archive of idol group The World Standard (わーすた) activities
 
 **フロントエンド:** Next.js, React, Vue.js, Nuxt.js, TypeScript, JavaScript  
 **バックエンド:** Ruby on Rails, Node.js, PostgreSQL, Prisma  
-**クラウド & ツール:** AWS, Supabase, Docker, GraphQL, Google Apps Script  
+**クラウド & ツール:** AWS, Supabase, Cloudflare Workers, Docker, GraphQL, Google Apps Script  
 **言語:** 日本語（ネイティブ）、英語
 
 ## 🤝 連絡先
