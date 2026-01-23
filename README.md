@@ -22,19 +22,6 @@ A compatibility diagnosis app for couples featuring ~100 questions across 11 cat
 
 🔗 https://pre-marry.com/
 
-### Chekisapo (チェキサポ) - Idol Event Support App
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white" />
-</p>
-
-A Progressive Web App that suggests poses and conversation topics for idol meet-and-greet events.
-
-🔗 https://chekisapo.com/
-
 ### Wasuta Archive (わーすたアーカイブ)
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
@@ -99,7 +86,7 @@ Comprehensive archive of idol group The World Standard (わーすた) activities
 
 <p align="center">
   元執行役員。AI活用による個人の価値創造の最前線を探求中。<br>
-  「AIをパートナーにした時、個人はどこまでやれるのか？」を実験的に検証するためキャリアブレイク中。
+  「AIをパートナーにした時、個人はどこまでやれるのか?」を実験的に検証するためキャリアブレイク中。
 </p>
 
 ## 🚀 プロジェクト
@@ -117,19 +104,6 @@ Comprehensive archive of idol group The World Standard (わーすた) activities
 カップル向けの質問・互換性診断アプリ。お金・家族・仕事など11カテゴリ約100問の質問で相性をスコア化し、Gemini AIがふたりの回答を分析してパーソナライズされたアドバイスを提供。
 
 🔗 https://pre-marry.com/
-
-### チェキサポ (Chekisapo) - アイドル特典会サポートアプリ
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white" />
-</p>
-
-アイドル特典会でのポーズや会話トピックを提案するプログレッシブウェブアプリ。
-
-🔗 https://chekisapo.com/
 
 ### わーすたアーカイブ (Wasuta Archive)
 <p align="left">
